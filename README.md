@@ -1,7 +1,7 @@
 # UFOs
 
 ## Project Overview
-To create a website showing information about UFO sightings.
+To create a website showing information about UFO sightings using JavaScript. 
 
 ## Resources
  - Data Sources: data.js, nasa.jpg
